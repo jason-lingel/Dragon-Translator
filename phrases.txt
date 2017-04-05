@@ -1,0 +1,9 @@
+directions, Where is the station?, Kolos los fin wundun golt?
+directions, Where is the town?, Kolos wah fin sahsun?
+directions, Where is the hotel?, Kolos los fin hofkah?
+directions, Where is the restraunt?, Kolos los fin kipraan wahlaan?
+greetings, Hello how are you?, Drem yol lok los hi?
+greetings, Good day, Kul sul.
+greetings, Good night, Kul vulon.
+responses, Thank you, Kogaan.
+responses, Please don't eat me, Ni naak zu'u.
